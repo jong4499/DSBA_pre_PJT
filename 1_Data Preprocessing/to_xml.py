@@ -4,6 +4,7 @@ from PIL import Image
 import csv
 import os
 
+# XML파일로 변환
 # (NOTICE #1)
 # If you're OS is Mac, there's a case when '.DS_Store' file is  automatically created.
 # In that case, you have to remove '.DS_Store' file through the terminal.
