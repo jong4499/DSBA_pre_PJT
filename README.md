@@ -6,6 +6,8 @@
  4. 마무리
 
  ## 프로젝트 선정 배경
+<img src="https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/3b2911d8-170d-46aa-98a8-fb9276830104" width=200 height = 400/>
+
 
 
 
