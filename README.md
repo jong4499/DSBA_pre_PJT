@@ -54,6 +54,7 @@
 
 ### 3. 장소 추천 챗봇
 3-1 형태소 분석기(KoNLPy-Kkma)
+
 ![형태소분석1](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/99dd5992-78c9-4063-a4c8-50c859d8aada
 
 3-2 결과(django기반 웹 프로토타입)
