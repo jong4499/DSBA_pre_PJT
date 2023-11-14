@@ -33,3 +33,29 @@
 
 ## 시스템 설계
 ### 1. 지능형CCTV
+![지능형cctv](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/4409956b-0c8a-4a47-b167-e10527b1e6fc)
+
+### 2. 시간예측 알고리즘
+2-1 Arima
+![arima](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/19c46216-f20a-4451-a6d1-d6cba037709f)
+
+2-2 LSTM
+![lstm2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/492ffe84-a3fe-40c2-b8a2-9ce0280f9c83)
+
+2-3 GRU
+![gru2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/1afa8177-1f9d-48e8-aa31-fe1df1fac6a0)
+
+<종합>
+||MSE|RMSE|
+|:---:|:---:|:---:|
+|ARIMA|3.47409|1.8638|
+|**LSTM**|0.41007|0.6403|
+|GRU|0.43417|0.6589|
+
+### 3. 장소 추천 챗봇
+3-1 형태소 분석기(KoNLPy-Kkma)
+![형태소분석1](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/99dd5992-78c9-4063-a4c8-50c859d8aada
+
+3-2 결과(django기반 웹 프로토타입)
+![형태소분석2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/1e478862-e69b-43e6-9062-9e7a1f942516)
+
