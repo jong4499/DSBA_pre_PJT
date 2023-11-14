@@ -21,8 +21,8 @@
 ■ 이러한 사고들을 현행 대응방안보다 더욱 효과적으로 예방할 수 있는 방법에 대하여 생각해보았고, 3가지 핵심 기능으로 구성된 종합 대응 시스템을 기획하여 제안한다.
    
  ## 시스템 흐름
- <img src = "https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/8f1ba3d7-2218-40b6-bfe2-b9c5a66005e9" width = 700 height=600/>   
- 
+ <img src = "[https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/8f1ba3d7-2218-40b6-bfe2-b9c5a66005e9](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/0726fb2a-dc8b-48bd-992a-b6a3739fe4ae)" width = 700 height=600/>
+
 1) 지능형 CCTV
 2) 침입시간 예측 알고리즘
 3) 장소 추천 챗봇   
