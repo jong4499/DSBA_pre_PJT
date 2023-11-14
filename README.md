@@ -45,7 +45,7 @@
 2-3 GRU
 ![gru2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/1afa8177-1f9d-48e8-aa31-fe1df1fac6a0)
 
-      <종합>
+   **<종합>**
 ||MSE|RMSE|
 |:---:|:---:|:---:|
 |ARIMA|3.47409|1.8638|
