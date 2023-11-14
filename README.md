@@ -7,7 +7,7 @@
  4. 마무리
 
  ## 프로젝트 선정 배경
-<img src="(https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/0dd1c4dd-9c88-443f-99fc-1e82f95270d9)" width=700 height = 400/>   
+<img src="https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/0dd1c4dd-9c88-443f-99fc-1e82f95270d9" width=700 height = 400/>   
 
 - 해양경찰청에서 제공하는 통계에 따르면 해양사고 발생지 중 'TTP 구간'은 해안가와 항포구에 이어 상위권에 속한다.
 - 오른쪽 그래프는 매년 사고 발생 수의 통계자료이다. TTP 구간 내에서 사고 발생 수 역시 지속적으로 발생하고 있다는 것을 알 수 있다.
