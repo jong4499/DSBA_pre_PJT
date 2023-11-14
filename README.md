@@ -21,7 +21,7 @@
 ■ 이러한 사고들을 현행 대응방안보다 더욱 효과적으로 예방할 수 있는 방법에 대하여 생각해보았고, 3가지 핵심 기능으로 구성된 종합 대응 시스템을 기획하여 제안한다.
    
  ## 시스템 흐름
- <img src = "[https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/8f1ba3d7-2218-40b6-bfe2-b9c5a66005e9](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/0726fb2a-dc8b-48bd-992a-b6a3739fe4ae)" width = 700 height=600/>
+ <img src = "https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/0726fb2a-dc8b-48bd-992a-b6a3739fe4ae" width = 700 height=600/>
 
 1) 지능형 CCTV
 2) 침입시간 예측 알고리즘
@@ -45,17 +45,19 @@
 2-3 GRU
 ![gru2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/1afa8177-1f9d-48e8-aa31-fe1df1fac6a0)
 
-<종합>
+      <종합>
 ||MSE|RMSE|
 |:---:|:---:|:---:|
 |ARIMA|3.47409|1.8638|
 |**LSTM**|0.41007|0.6403|
 |GRU|0.43417|0.6589|
 
+   
 ### 3. 장소 추천 챗봇
+   
 3-1 형태소 분석기(KoNLPy-Kkma)
+![형태소분석1](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/2b92986c-ae5d-4ae5-b6f3-5c4e2420cb34)
 
-![형태소분석1](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/99dd5992-78c9-4063-a4c8-50c859d8aada
 
 3-2 결과(django기반 웹 프로토타입)
 ![형태소분석2](https://github.com/jong4499/DSBA_pre_PJT/assets/141287150/1e478862-e69b-43e6-9062-9e7a1f942516)
